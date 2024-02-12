@@ -1,6 +1,6 @@
 ### Bem-vindo(a)! Eu sou o Pedro Navarro
 
-- 📝 Atualmente estudando HTML5, CSS3 e Python
+- 📝 Atualmente estudando HTML5, CSS3, JavaScript e Python
 - 🐉 Pronome: ele/dele
 - 📫 Contato: desenvolvedornavarro@gmail.com
 
